@@ -1,0 +1,11 @@
+.formcontainer{
+    width: 50%;
+    margin: 0 auto;
+}
+.mheading, .message{
+    text-align: center;
+}
+.center{
+    text-align: center;
+    margin: 0 auto;
+}
